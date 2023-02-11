@@ -1,9 +1,4 @@
-# crawler
-1.platform: wb, red book
-
-2.data description: 
-
-wb:
+# redbook-crawler
 
 
 
